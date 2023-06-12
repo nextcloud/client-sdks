@@ -1,0 +1,6 @@
+[submodule "openapi-extractor"]
+	path = openapi-extractor
+	url = https://github.com/nextcloud/openapi-extractor
+[submodule "server"]
+	path = server
+	url = https://github.com/nextcloud/server

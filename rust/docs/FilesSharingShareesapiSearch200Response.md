@@ -1,0 +1,11 @@
+# FilesSharingShareesapiSearch200Response
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**ocs** | [**crate::models::FilesSharingShareesapiSearch200ResponseOcs**](files_sharing_shareesapi_search_200_response_ocs.md) |  | 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
