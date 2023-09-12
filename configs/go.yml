@@ -1,0 +1,5 @@
+disallowAdditionalPropertiesIfNotPresent: false
+packageName: client_sdk
+generateInterfaces: true
+structPrefix: true
+enumClassPrefix: true

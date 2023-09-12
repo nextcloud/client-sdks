@@ -1,4 +1,5 @@
 .idea/
 *.iml
 
-/rust/target/
+openapi.json
+openapitools.json

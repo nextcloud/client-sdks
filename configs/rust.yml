@@ -1,0 +1,6 @@
+packageName: nextcloud-client-sdk
+packageVersion: 1.0.0
+library: reqwest
+supportAsync: true
+enumNameSuffix: Enum
+disallowAdditionalPropertiesIfNotPresent: false

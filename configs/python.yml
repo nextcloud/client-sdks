@@ -1,0 +1,6 @@
+projectName: nextcloud-client-sdk
+packageName: nextcloud_client
+packageVersion: 1.0.0
+library: urllib3
+packageUrl: https://github.com/nextcloud/client-sdk
+disallowAdditionalPropertiesIfNotPresent: false

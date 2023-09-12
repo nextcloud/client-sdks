@@ -1,0 +1,8 @@
+npmName: "@nextcloud/client-sdk"
+npmVersion: 1.0.0
+supportsES6: true
+ensureUniqueParams: true
+modelPropertyNaming: original
+disallowAdditionalPropertiesIfNotPresent: false
+withInterfaces: false
+useSingleRequestParameter: true
